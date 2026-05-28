@@ -9,7 +9,6 @@ This repository is linked to a [v0](https://v0.app) project. You can continue de
 
 ## Getting Started
 First, run the development server:
-
 ```bash
 npm run dev
 # or
